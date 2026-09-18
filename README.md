@@ -1,10 +1,8 @@
 ## System.out.println("Bem-vindo. A seguir, a apresentação dessa pequena jovem programadora: "); 😘
 
 <p align="center">
-  <img src="https://media.giphy.com/media/uVqJA3zsO481y/giphy.gif" width="500" alt="Cybersecurity Hacker GIF">
+  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="500" alt="Compiuter">
 </p>
-
-https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif
 
 Sou uma pessoa entusiasmada com a tecnologia (principalmente se envolver hardware hehe), porém confesso ser meio procrastinadora (sinceridade é tudo).  
 Amo hardware, cybersecurity, automação e também gosto de me dedicar nos meus trabalhos da faculdade. 
