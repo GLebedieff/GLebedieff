@@ -27,6 +27,13 @@ Solucionar problemas é o meu forte, principalmente se envolver o reaproveitamen
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Hardware / IoT](https://img.shields.io/badge/Hardware_%26_IoT-412991?style=for-the-badge&logo=espressif&logoColor=white)
 
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Software%20%26%20Hardware&fontSize=38)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgTM/giphy.gif" width="500">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-170a23ac571f.gif" width="100%">
+
+### 📊 Estatísticas
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
